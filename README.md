@@ -1,69 +1,61 @@
 # Anubhav Shavaran
 
-**Backend Engineer · Full-Stack Developer · Systems Enthusiast**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3500&pause=1200&color=7CFFB2&center=true&vCenter=true&width=780&lines=I+like+systems+that+work+under+pressure.;Curious+about+what+happens+below+the+API.;Build.+Measure.+Understand.+Repeat." alt="Typing animation" />
+</p>
 
-I build software with a focus on **backend systems, performance, and scalability**.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="320" alt="Coding animation" />
+</p>
 
-I'm particularly interested in understanding how systems work under the hood—from networking and concurrency to databases and distributed systems—and applying that knowledge to build reliable software.
+<p align="center">
+  <samp>backend engineer · systems enthusiast · professional rabbit-hole explorer</samp>
+</p>
 
-### Currently focused on
+---
 
-* Backend engineering with **Go, Python, and TypeScript**
-* **Distributed systems** and system design
-* Networking, concurrency, and high-performance services
-* Database architecture and data-intensive applications
-* Cloud infrastructure, containers, and deployment
-* Building and studying systems through hands-on projects
+```text
+anubhav@dev:~$ whoami
 
-### Technologies
+Someone who wants to know what happens underneath.
 
-**Languages**
+anubhav@dev:~$ cat interests.txt
 
-Go · Python · TypeScript · JavaScript · Java · Kotlin
+  operating systems
+  networks & concurrency
+  databases & distributed systems
+  performance engineering
+  building things just to understand them
+```
 
-**Backend**
+Most people stop when the API works.
 
-Go · Node.js · Express · FastAPI
+I get curious about what happens when 10,000 requests hit it, why a query suddenly gets slow, where the memory went, or what the abstraction is hiding.
 
-**Frontend**
+I like building software, but I like understanding *why it works* even more.
 
-React · React Native · Tailwind CSS
+### Current rabbit holes
 
-**Databases**
+- Reading about operating systems, Linux internals, and networking.
+- Exploring concurrency, distributed systems, and database internals.
+- Building backend-heavy projects and figuring out where the bottlenecks actually are.
+- Studying machine learning, occasionally wandering far away from the backend and ending up in linear algebra.
 
-PostgreSQL · MongoDB · Prisma
+### Things I believe in
 
-**Infrastructure**
+```text
+First, make it work.
+Then, understand why it works.
+Measure before you optimize.
+Never trust a benchmark you haven't questioned.
+```
 
-AWS · GCP · Docker · Kubernetes · Linux · Git
+I'm usually happiest when there's something unfamiliar to figure out, something slow to investigate, or something complicated that can be made simpler.
 
-### What I build
-
-I prefer projects that involve more than simply implementing an API. I'm interested in systems where there are meaningful engineering problems to solve:
-
-* High-throughput backend services
-* Distributed systems
-* Networking and concurrent applications
-* Data-intensive applications
-* Trading and quantitative systems
-* Developer tools and infrastructure
-* Scalable web applications
-
-My approach is simple:
-
-> **Build it. Understand how it works. Measure it. Improve it.**
-
-### Learning
-
-Currently going deeper into:
-
-* Operating systems and the Linux kernel
-* Computer networking
-* Distributed systems
-* Data-intensive system design
-* Machine learning
-* Production-grade Go
-
-### Connect
+### Elsewhere on the internet
 
 [LinkedIn](https://linkedin.com/in/anubhavshavaran) · [GitHub](https://github.com/anubhavshavaran)
+
+<p align="center">
+  <samp>still learning. still building. still reading the docs.</samp>
+</p>
