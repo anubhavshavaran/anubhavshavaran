@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="320" alt="Coding animation" />
-</p>
-
-<p align="center">
-  <samp>backend engineer · systems enthusiast · professional rabbit-hole explorer</samp>
+  <samp>building systems · curious about the details · occasionally looking for the wrong kind of hole</samp>
 </p>
 
 ---
@@ -24,33 +20,11 @@ anubhav@dev:~$ cat interests.txt
   operating systems
   networks & concurrency
   databases & distributed systems
-  performance engineering
+  machine learning
   building things just to understand them
 ```
 
-Most people stop when the API works.
-
-I get curious about what happens when 10,000 requests hit it, why a query suddenly gets slow, where the memory went, or what the abstraction is hiding.
-
-I like building software, but I like understanding *why it works* even more.
-
-### Current rabbit holes
-
-- Reading about operating systems, Linux internals, and networking.
-- Exploring concurrency, distributed systems, and database internals.
-- Building backend-heavy projects and figuring out where the bottlenecks actually are.
-- Studying machine learning, occasionally wandering far away from the backend and ending up in linear algebra.
-
-### Things I believe in
-
-```text
-First, make it work.
-Then, understand why it works.
-Measure before you optimize.
-Never trust a benchmark you haven't questioned.
-```
-
-I'm usually happiest when there's something unfamiliar to figure out, something slow to investigate, or something complicated that can be made simpler.
+No particular roadmap. Just following the interesting questions.
 
 ### Elsewhere on the internet
 
